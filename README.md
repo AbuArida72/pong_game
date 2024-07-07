@@ -36,39 +36,39 @@ or simply double-click index.html.
 # Game Controls
 
 - Player 1:
--- Move Up: W
--- Down: S
+          - Move Up: W
+          - Down: S
   
 - Player 2:
--- Move Up: Arrow Up
--- Move Down: Arrow Down
+          - Move Up: Arrow Up
+          - Move Down: Arrow Down
 
 # Contributing
 
 I welcome contributions to improve the pong_game! To contribute:
 
 1. Fork the Repository:
-    Click the "Fork" button at the top right of this page.
+   - Click the "Fork" button at the top right of this page.
 
-2. Clone Your Fork:
+3. Clone Your Fork:
 
-    git clone https://github.com/your-username/pong_game.git
+        git clone https://github.com/your-username/pong_game.git
 
-3. Create a New Branch:
+4. Create a New Branch:
 
-    git checkout -b feature/your-feature-name
+        git checkout -b feature/your-feature-name
 
-4. Make Your Changes:
+5. Make Your Changes:
 
-5. Commit Your Changes:
+6. Commit Your Changes:
 
-    git commit -m "Add your commit message"
+        git commit -m "Add your commit message"
 
-6. Push to Your Branch:
+7. Push to Your Branch:
 
-    git push origin feature/your-feature-name
+        git push origin feature/your-feature-name
 
-7. Open a Pull Request:
+8. Open a Pull Request:
    - Go to your forked repository.
    - Click the "New pull request" button.
     
