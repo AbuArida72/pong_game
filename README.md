@@ -22,13 +22,13 @@ Welcome to the pong_game repository! This project is a modern twist on the class
 
 # Usage
 
-1- Open index.html in Your Web Browser:
+1. Open index.html in Your Web Browser:
 
     open index.html
 
 or simply double-click index.html.
 
-2- Start Playing:
+2. Start Playing:
         - Use the keyboard controls to play the game.
         - Enjoy the AI-generated interface and sound effects.
         - Track the scores as you play.
@@ -36,8 +36,8 @@ or simply double-click index.html.
 # Game Controls
 
 - Player 1:
-          - Move Up: W
-          - Move Down: S
+-         Move Up: W
+          Down: S
   
 - Player 2:
           - Move Up: Arrow Up
@@ -47,28 +47,28 @@ or simply double-click index.html.
 
 I welcome contributions to improve the pong_game! To contribute:
 
-1- Fork the Repository:
+1. Fork the Repository:
     Click the "Fork" button at the top right of this page.
 
-2- Clone Your Fork:
+2. Clone Your Fork:
 
     git clone https://github.com/your-username/pong_game.git
 
-3- Create a New Branch:
+3. Create a New Branch:
 
     git checkout -b feature/your-feature-name
 
-4- Make Your Changes:
+4. Make Your Changes:
 
-5- Commit Your Changes:
+5. Commit Your Changes:
 
     git commit -m "Add your commit message"
 
-6- Push to Your Branch:
+6. Push to Your Branch:
 
     git push origin feature/your-feature-name
 
-7- Open a Pull Request:
+7. Open a Pull Request:
         - Go to your forked repository.
         - Click the "New pull request" button.
     
