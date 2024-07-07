@@ -35,13 +35,13 @@ or simply double-click index.html.
 
 # Game Controls
 
-- Player 1:
-          - Move Up: W
-          - Down: S
+1. Player 1:
+   - Move Up: W
+   - Move Down: S
   
-- Player 2:
-          - Move Up: Arrow Up
-          - Move Down: Arrow Down
+3. Player 2:
+   - Move Up: Arrow Up
+   - Move Down: Arrow Down
 
 # Contributing
 
