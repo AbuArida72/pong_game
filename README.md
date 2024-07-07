@@ -29,19 +29,19 @@ Welcome to the pong_game repository! This project is a modern twist on the class
 or simply double-click index.html.
 
 2- Start Playing:
-        Use the keyboard controls to play the game.
-        Enjoy the AI-generated interface and sound effects.
-        Track the scores as you play.
+        - Use the keyboard controls to play the game.
+        - Enjoy the AI-generated interface and sound effects.
+        - Track the scores as you play.
 
 # Game Controls
 
 - Player 1:
-      Move Up: W
-      Move Down: S
+          - Move Up: W
+          - Move Down: S
   
 - Player 2:
-      Move Up: Arrow Up
-      Move Down: Arrow Down
+          - Move Up: Arrow Up
+          - Move Down: Arrow Down
 
 # Contributing
 
@@ -69,8 +69,8 @@ I welcome contributions to improve the pong_game! To contribute:
     git push origin feature/your-feature-name
 
 7- Open a Pull Request:
-        Go to your forked repository.
-        Click the "New pull request" button.
+        - Go to your forked repository.
+        - Click the "New pull request" button.
     
 # Enjoy
 
