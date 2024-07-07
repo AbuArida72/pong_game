@@ -26,8 +26,6 @@ Welcome to the pong_game repository! This project is a modern twist on the class
 
         open index.html
 
-or simply double-click index.html.
-
 2. Start Playing:
    - Use the keyboard controls to play the game.
    - Enjoy the AI-generated interface and sound effects.
