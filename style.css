@@ -75,11 +75,11 @@ body {
     align-items: center;
 }
 
-.player1score {
+.player1Score {
     left: calc(50% - 200px);
 }
 
-.player2score {
+.player2Score {
     right: calc(50% - 200px);
 }
 
